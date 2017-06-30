@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "838555150707",
+    "firebase_url": "https://rddatabasebasic.firebaseio.com",
+    "project_id": "rddatabasebasic",
+    "storage_bucket": "rddatabasebasic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838555150707:android:decc28c7745663a6",
+        "android_client_info": {
+          "package_name": "com.veryworks.android.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838555150707-dq5c3e9fg0jlbsgd23va4qjj69gjmvd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veryworks.android.firebase",
+            "certificate_hash": "41e1be29278ebb0d6e4a4dba765be56cf738096a"
+          }
+        },
+        {
+          "client_id": "838555150707-aomnahud8apmggc45c9v2hu60le7pr84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC62cJwjtH_77xiXg4ts9N_8kuNJFpG94A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838555150707-aomnahud8apmggc45c9v2hu60le7pr84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
